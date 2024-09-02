@@ -1,5 +1,5 @@
 # linear-regression-from-scratch
-Linear Regression program
+Linear Regression program from scratch, using linear curve fitting 📈
 
 
 This is a linear regression model built without using any machine learning libraries such as scikit-learn, TensorFlow, etc.  
